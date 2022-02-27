@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtanzimferdous" alt="mdtanzimferdous" /></a> </p>
 
-- 🔭 I’m currently working on [MeetDoctor](https://github.com/MdTanzimFerdous/Meet-Doctor-Project)
+//- 🔭 I’m currently working on [MeetDoctor](https://github.com/MdTanzimFerdous/Meet-Doctor-Project)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
